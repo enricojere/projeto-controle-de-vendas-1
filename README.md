@@ -15,3 +15,4 @@ Relatórios de vendas: O sistema gera relatórios com o histórico de vendas rea
 sobre o desempenho das transações, como o total de vendas diárias ou mensais.
 Consultas e filtros: Os usuários podem realizar consultas filtrando por diferentes parâmetros, como data da venda, nome do produto, quantidade
 ou valor total da transação.
+link para o projeto: https://github.com/enricojere/projeto-controle-de-vendas-1
